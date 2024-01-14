@@ -1,4 +1,4 @@
-Live Site URL: [https://vercel.com/gragertvd/scrabble/6cBMfMBuAWcsWK8moafQfDnspHqw](https://vercel.com/gragertvd/scrabble/6cBMfMBuAWcsWK8moafQfDnspHqw)
+Live Site URL: [https://scrabble-gules.vercel.app/](https://scrabble-gules.vercel.app/)
   
 # Getting Started with Create React App
 
