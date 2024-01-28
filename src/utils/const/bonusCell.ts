@@ -1,3 +1,17 @@
+// type bonusCell = 'letter2' | 'letter3' | 'word2' | 'word3'
+
+// interface Cell {
+//   id: number
+//   bonus: number
+//   bonusType: 'word' | 'letter'
+//   label: string
+// }
+
+// interface BonusCell implements  Cell{
+//   bonusToWord: boolean
+//   bonusToLetter: boolean
+//   bonusCount: 2 | 3
+// }
 
 const bonusCell = {
   letter2: [4, 12],
