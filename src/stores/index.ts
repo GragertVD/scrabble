@@ -55,6 +55,10 @@ class MainStore {
     }
   }
 
+  removeUserLetters = () => {
+    return this.userLetters.pop()
+  }
+
 }
 
 export default MainStore
